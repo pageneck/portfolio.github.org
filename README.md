@@ -12,3 +12,4 @@ Genomics Research Scientist @ AiBST
 Next generation Sequencing
 Genomics data analysis
 Python & R programming
+Blogging
